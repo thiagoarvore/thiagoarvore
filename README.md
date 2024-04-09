@@ -1,6 +1,10 @@
-🌱 I’m currently learning DjangoRestFramework
+# Welcome! 
 
-🔭 Looking for a career change
+## I'm Thiago Azevedo Rodrigues de Oliveira!
+
+I´m a History teacher 🔭 Looking for a career change as a Back-End Dev
+
+🌱 I’m currently learning DjangoRestFramework
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-azevedo-oliveira/) 
