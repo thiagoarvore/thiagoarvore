@@ -6,6 +6,8 @@ I´m a History teacher 🔭 Looking for a career change as a Back-End Dev
 
 🌱 I’m currently learning DjangoRestFramework
 
+My best project: https://www.cuidadopsi.com.br
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-azevedo-oliveira/) 
 
