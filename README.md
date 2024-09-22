@@ -4,7 +4,7 @@
 
 I´m a History teacher 🔭 Looking for a career change as a Back-End Dev
 
-🌱 I’m currently learning DjangoRestFramework
+🌱 I’m currently working on a project for bike rental in São Paulo slums.
 
 My best project: https://www.cuidadopsi.com.br
 
