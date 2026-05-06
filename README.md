@@ -2,9 +2,9 @@
 
 ## I'm Thiago Azevedo Rodrigues de Oliveira!
 
-I´m a History teacher 🔭 Looking for a career change as a Back-End Dev
+Working for more than an year as System Analyst. 
 
-🌱 I’m currently working on a project for bike rental in São Paulo slums.
+Remotly from Tokyo.
 
 My best project: https://www.cuidadopsi.com.br
 
