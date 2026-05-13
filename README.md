@@ -1,33 +1,40 @@
-# Welcome! 
+# Thiago Azevedo Rodrigues de Oliveira
 
-## I'm Thiago Azevedo Rodrigues de Oliveira!
+Full Stack Developer at [Think Digital](https://www.thinkdigital.com.br/), part of the [TecHub](https://www.techub.com.br/) group.
 
-Working for more than an year as System Analyst. 
+I build systems end to end, with a strong focus on system integrations, process automation, and digital solutions that connect people, data, and platforms. I like working across the full lifecycle: from architecture and technical design to implementation, deployment, and production support.
 
-Remotly from Tokyo.
+Currently working remotely from Tokyo, building solutions with backend, frontend, APIs, databases, cloud infrastructure, and the operational pieces needed to turn ideas into real products running in production.
 
-My best project: https://www.cuidadopsi.com.br
+## What I Work On
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-azevedo-oliveira/) 
+- Full stack development for web applications and internal systems
+- Integrations between systems, APIs, platforms, and business workflows
+- Solution architecture, data modeling, and technical design
+- Deployment, environment setup, Nginx, databases, and cloud infrastructure
+- Process automation and operational improvements for digital products
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## Featured Personal Project
+
+[Cuidado Psi](https://www.cuidadopsi.com.br/)
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/traefik-24A1C1.svg?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-azevedo-oliveira/)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=thiagoarvore&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**thiagoarvore/thiagoarvore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
